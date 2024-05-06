@@ -36,10 +36,10 @@
 <p align="left"><a href="https://github.com/anamolsoman/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anamolsoman" />
 </a>
+&nbsp;
 <a href="https://github.com/anamolsoman/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anamolsoman&layout=compact&langs_count=8&card_width=200" />
 </a></p>
-<br></br>
 <p align="left" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=anamolsoman&card_width=464" alt="anamolsoman" /></p>
 
 <h3 align="left">Support:</h3>
