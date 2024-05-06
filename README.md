@@ -2,9 +2,9 @@
 My name is Anamol and I'm a Frontend Developer.  
 Check out my [Blogs](https://t.me/progdude_info) about the web and all things around it.  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=frozrt&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frozrt&layout=compact&theme=gotham&custom_title=Statistics)  
-![ViewCount](https://komarev.com/ghpvc/?username=frozrt&color=1A4730)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anamolsoman&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamolsoman&layout=compact&theme=gotham&custom_title=Statistics)  
+![ViewCount](https://komarev.com/ghpvc/?username=anamolsoman&color=1A4730)
 #### Languages and tools:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![golang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
