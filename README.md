@@ -17,14 +17,14 @@
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people
 
-### Blogs posts
+### Blogs posts (150k+ views total)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anamol-soman-a0072718a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anamol-soman-a0072718a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anamol-soman-a0072718a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anamol-soman-a0072718a/" height="30" width="40" /></a>
 <a href="https://medium.com/@anamolsoman2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anamolsoman2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anamol-soman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anamol-soman" height="30" width="40" /></a>
 </p>
