@@ -9,11 +9,11 @@
 - 👯 I’m looking to collaborate with other Developers
 <!-- - 🌱 I’m currently learning **Design Patterns** -->
 
-- 📝 I regularly write articles on [https://medium.com/@anamolsoman2](https://medium.com/@anamolsoman2)
+- 📝 I regularly write articles on [Medium](https://medium.com/@anamolsoman2)
 
 - 🥅 2023 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: <a href="https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/">[Let's get in touch!] [linkedin]</a>
+- 📬 How to reach me: <a href="https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/">[Let's get in touch!] </a>
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people
 
@@ -44,5 +44,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/anamolsoman">
-
 <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="anamolsoman" /></a></p>
