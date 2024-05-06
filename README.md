@@ -25,7 +25,6 @@
 - [Setting Up Prettier and ESLint in Your React Project: A Step By Step Guide](https://medium.com/@anamolsoman2/setting-up-prettier-and-eslint-in-your-react-project-a-step-by-step-guide-24fb4989b914?source=rss-1599f4b13dfd------2)
 - [JavaScript Security: Safeguarding Your Web Applications](https://systemweakness.com/javascript-security-safeguarding-your-web-applications-3306eafd78f5?source=rss-1599f4b13dfd------2)
 - [How to Speed Up Your Website: A Comprehensive Guide](https://medium.com/swlh/how-to-speed-up-your-website-a-comprehensive-guide-a8b4f39357e?source=rss-1599f4b13dfd------2)
-- [5 Simple Ways to Center a Div Horizontally and Vertically in CSS](https://bootcamp.uxdesign.cc/5-simple-ways-to-center-a-div-horizontally-and-vertically-in-css-23bbaa5f9f52?source=rss-1599f4b13dfd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
