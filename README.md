@@ -20,7 +20,7 @@
 ### Blogs posts (150k+ views total)
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Web Interactivity with HTMX: A Deep Dive](https://medium.com/@anamolsoman2/enhancing-web-interactivity-with-htmx-a-deep-dive-5d1a6b4a8621?source=rss-1599f4b13dfd------2)
+- [Enhancing Web Interactivity with HTMX: A Deep Dive](https://bootcamp.uxdesign.cc/enhancing-web-interactivity-with-htmx-a-deep-dive-5d1a6b4a8621?source=rss-1599f4b13dfd------2)
 - [Understanding Vue 3 Reactivity | by Anamol Soman](https://medium.com/@anamolsoman2/understanding-vue-3-reactivity-by-anamol-soman-336aaf4ac9e6?source=rss-1599f4b13dfd------2)
 - [5 Simple Ways to Optimize Your JavaScript Code: A Friendly Guide](https://bootcamp.uxdesign.cc/5-simple-ways-to-optimize-your-javascript-code-a-friendly-guide-02ff08474a65?source=rss-1599f4b13dfd------2)
 - [Mastering JavaScript Objects: 10 Tricks Every Developer Should Know](https://blog.stackademic.com/mastering-javascript-objects-10-tricks-every-developer-should-know-71c3da728310?source=rss-1599f4b13dfd------2)
