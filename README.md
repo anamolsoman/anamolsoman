@@ -13,7 +13,7 @@
 
 - 🥅 2023 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: <a href="https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/">[Let's get in touch!] </a>
+- 📬 How to reach me: <a href="https://www.linkedin.com/in/anamol-soman/">[Let's get in touch!] </a>
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people
 
