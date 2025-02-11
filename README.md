@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@anamolsoman2)
 
-- 🥅 2023 Goals: Contribute to Open Source projects
+- 🥅 2025 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/anamol-soman/">[Let's get in touch!] </a>
 - 🧗 I try to: Go beyond and push the bounds
